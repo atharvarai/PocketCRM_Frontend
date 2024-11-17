@@ -1,3 +1,3 @@
 # **FRONTEND DEMO**
 ## **PocketCRM Application**
-### **Deployment Link: 🔗 **
+### **Deployment Link: 🔗 https://pocketcrm.netlify.app/**
